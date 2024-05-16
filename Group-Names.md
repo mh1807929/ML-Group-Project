@@ -1,7 +1,0 @@
-# ML-Group-Project
-Machine Learning Group Project
-
-Students:
-Mohammad Hassan   201807929
-Yusuf Siddiqui    202006963
-Abdullah Khan     202107912
